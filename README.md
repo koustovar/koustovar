@@ -47,6 +47,7 @@
 
 ### Backend & Tools
 ![Firebase](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![ImageKit](https://img.shields.io/badge/ImageKit.io-FF6B00?style=for-the-badge&logo=imagekit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=white)
@@ -75,12 +76,22 @@
 
 ---
 
-### 🌐 Energie Fitness Web App
-> Mobile-first gym website for Energie Fitness, Sainthia
+### 🌐 Energie Fitness — [Live ↗](https://energiefitnessgym.in/)
+> Production website for **Energie Fitness Sainthia**, one of West Bengal's top multi-gyms
 
-- **Stack:** React · Vite · Firebase · Tailwind CSS
-- **Features:** Real-time Firestore plan integration, skeleton loaders, mobile-optimized
-- Live client project
+- **Stack:** React · Vite · Firebase · Tailwind CSS · ImageKit.io
+- **Features:** Mobile-first design, real-time membership plan display via Firestore, skeleton loaders for performance, optimized image delivery via ImageKit, bold dark UI with red accent branding
+- ✅ Live — [energiefitnessgym.in](https://energiefitnessgym.in/)
+
+---
+
+### 🛒 NEXSUS Store — [Live ↗](https://store.nexsus.in/)
+> E-commerce platform co-founded with a friend — UI/UX fully designed & built by me
+
+- **Stack:** React · Vite · Firebase
+- **Features:** Full product storefront, modern shopping experience, clean and fast UI — *"Future of E-Commerce"*
+- 🤝 Co-founded · UI designed by me
+- ✅ Live — [store.nexsus.in](https://store.nexsus.in/)
 
 ---
 
@@ -89,6 +100,7 @@
 
 - **Stack:** Flutter · Firebase · Riverpod
 - **Features:** Dark luxury design, Google Sign-In, contact workflow management
+- 🔒 Private — in active development
 
 ---
 
@@ -111,7 +123,9 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-koustovar-181717?style=for-the-badge&logo=github)](https://github.com/koustovar)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![YouTube](https://img.shields.io/badge/YouTube-koustovadhikari-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@koustovadhikari)
+[![Instagram](https://img.shields.io/badge/Instagram-furiouss.in-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/furiouss.in)
+[![Email](https://img.shields.io/badge/Email-furious.arko%40gmail.com-FF4500?style=for-the-badge&logo=gmail&logoColor=white)](mailto:furious.arko@gmail.com)
 
 *Available for internships · freelance projects · open source collabs*
 
